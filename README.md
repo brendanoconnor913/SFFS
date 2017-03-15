@@ -6,10 +6,10 @@ as a
 wrapper 
 to obtain optimum features for the spoof detector.
 
-Abstract  
+Abstract 
+-
 A spoof detector is a 
 two
--
 class
 classifier that distinguishes live samples from the fake 
 artifacts.
