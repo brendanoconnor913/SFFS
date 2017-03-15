@@ -3,8 +3,7 @@ Implement Sequential Forward Floating Selection
 (SFFS)
 Scheme
 as a 
-w
-rapper 
+wrapper 
 to obtain optimum features for the spoof detector.
 Abstract
 : A spoof detector is a 
@@ -32,6 +31,3 @@ SVM
 classifier 
 is used to train and validate the spoof detector
 .
-Data matrices can be obtained from the following 
-link: 
-https://umkc.box.com/s/daaj5wcx0y1qdx91cnjcgpx57ord422k
