@@ -8,7 +8,8 @@ to obtain optimum features for the spoof detector.
 
 
 Abstract
-: A spoof detector is a 
+
+A spoof detector is a 
 two
 -
 class
