@@ -6,9 +6,7 @@ as a
 wrapper 
 to obtain optimum features for the spoof detector.
 
-
 Abstract
-
 A spoof detector is a 
 two
 -
